@@ -1,4 +1,4 @@
-name: "Simple FTP deploy"
+name: "Simple FTP deploy Fork"
 author: "Kévin Painchaud"
 description: "Deploy files to an FTP server using GitHub actions"
 inputs:
